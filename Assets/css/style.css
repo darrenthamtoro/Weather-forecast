@@ -1,0 +1,10 @@
+header {
+    text-align: center;
+    color: antiquewhite;
+}
+
+#current-weather {
+    border-style: solid;
+    color: black;
+    border-width: 1px;
+}
