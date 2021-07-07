@@ -1,1 +1,5 @@
 # Weather-forecast
+# about
+* The purpose of this project is to show the weather information in a website. There is a search bar located in the left side of the page, and it allows the users to search a city name and the right side of the page will show the weather forecast of the city in the current day. The bottom right side of the page shows the weather forecast of the same city for the next 5 days. The informations include the city name, date, temperature, wind, humidity, and index.
+
+* The left bottom of the page stores the search history of the user. When a user searches the weather forecast for a city, the city name will be stored in a local storage and the city name will appear. Another function it has is when the user clicks its search history city, the information of the city will appear in the right side of the page.
